@@ -21,7 +21,7 @@ linkedin: ifrahkhanyaree # the part after ("https://www.linkedin.com/in/...")
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: https://github.com/KhanyaI  #the link
-about_button_label: get hello # the label on the button
+
 
 # optional portfolio section ------------------------------------------
 
@@ -44,7 +44,3 @@ cta_button_label: contact # the label on the button
 
 ### I'm originally from Kashmir, India and have been living in Germany since 2013. I went to university (both undergrad and grad) in cognitive neuroscience here — first at Jacobs University, Bremen and then at Ludwig-Maximilian-University, Munich. During my Masters, I worked at the university hospital for psychiatry and psychotherapy with at-risk for psychosis patients as part of a research group building a prognostic tool for early psychosis detection. That is where I learnt the majority of my German, learnt the value of hard work, feedback and realized the need to take a step back from academia after 5 years of constant study and research. Fast forward 2 years, I am now working within the marketing department at a non-profit building digital health solutions for academia as well as for the public.    
 
-
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
