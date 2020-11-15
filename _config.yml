@@ -1,10 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Ifrah Khanyaree
+author: Ifrah 
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+Amalgamation of researcher, marketer, analytics enthusiast, reader, and runner.
+
 baseurl: ""
 
 plugins:
