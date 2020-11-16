@@ -4,7 +4,7 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hi, i'm ifrah
+banner_title: ifrah khanyaree
 banner_subtitle: amalgamation of researcher, marketer, analytics enthusiast, reader, and runner.
 background_image: /images/DSCN5429.jpeg
 
