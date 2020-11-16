@@ -9,7 +9,7 @@ banner_subtitle: amalgamation of researcher, marketer, analytics enthusiast, rea
 background_image: /images/DSCN5425.jpeg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+
 
 # favicon
 favicon: /assets/ico/kash.ico
