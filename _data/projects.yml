@@ -4,10 +4,10 @@
 projects:
   - category: Coding
     items:
-      - item: example.html
+      - item: example4.html
       - item: example2.html 
       - item: example3.html
-      - item: example4.html
+      - item: example.html
 
 
 
