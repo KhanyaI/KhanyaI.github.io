@@ -10,7 +10,6 @@ background_image: /images/DSCN5429.jpeg
 
 # all of the following variables are optional -----------------
 
-
 # favicon
 favicon: /assets/ico/kash.ico
 
