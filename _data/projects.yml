@@ -4,6 +4,5 @@
 projects:
   - category: Coding
     items:
-      - item: example.html
-        image: /images/ml.jpg # optionally, include the file path for an image for each item
+      - item: example.html # optionally, include the file path for an image for each item
 
