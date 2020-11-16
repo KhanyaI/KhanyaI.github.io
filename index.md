@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: hi, i'm ifrah
 banner_subtitle: amalgamation of researcher, marketer, analytics enthusiast, reader, and runner.
-background_image: /images/DSCN5425.jpeg
+background_image: /images/DSCN5429.jpeg
 
 # all of the following variables are optional -----------------
 
