@@ -41,10 +41,10 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### Working on digital health @ Data4Life, previously MSc Neuro-Cognitive Psychology @ LMU
 
-#### I'm originally from Kashmir, India and have been living in Germany since 2013. I went to university for cognitive neuroscience here — first at Jacobs University, Bremen and then at Ludwig-Maximilian-University, Munich. During my MSc,I worked with at-risk for psychosis patients as part of a research group building a prognostic tool for early psychosis detection. 
+#### I'm originally from Kashmir, India and have been living in Germany since 2013. I went to university for cognitive neuroscience — first at Jacobs University, Bremen and then at Ludwig-Maximilian-University, Munich. During my MSc,I worked with at-risk for psychosis patients as part of a research group building a prognostic tool for early psychosis detection. 
 #### That is where I learnt the majority of my German and realized the need to take a step back from academia. Fast forward 2 years — I am now working as a growth manager at a non-profit building digital health solutions for academia and the public. In these two years, I have been coding (entirely self-taught) and immersing myself in AI/ML topics. I am currently also volunteering as a Project Manager @ Omdena, where, together with 50 collaborators from across the world we are building AI solutions for good. 
 
-#### The long term goal is be part of a humanitarian organization or a non-profit and build AI/ML healthcare solutions. 
+
 
 
 
