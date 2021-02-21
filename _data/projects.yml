@@ -6,7 +6,6 @@ projects:
     items:
       - item: example6.html
       - item: example5.html
-      - item: example4.html
       - item: example2.html 
       - item: example.html
 
