@@ -62,7 +62,6 @@
         <a href="/">hello</a></h1>
       <nav id="nav">
         <ul>
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#writing">writing</a></li>
           <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#about">about</a></li>
           {% if page.portfolio %}
           <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.portfolio }}">{{ page.portfolio }}</a></li>
@@ -105,16 +104,7 @@
                     {{ content }}</div>
       
                   <!-- button -->
-                  {% if page.about_button %}
-                  <section class="wrapper style1 container special">
-                        <footer class="major">
-                            <ul class="buttons">
-                              <li><a href="/assets/cv.pdf" class="button">Resume</a></li>
-                            </ul>
-                        </footer>
-                  </section>
-                {% endif %}      
-              </section>    
+   
 
             <!-- section: work-->
             {% if page.portfolio %}
