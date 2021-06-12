@@ -1,0 +1,52 @@
+*{
+	margin: 60;
+	padding: 60;
+	font-family: "Cambodian", Cambodian, monospace;
+}
+
+body {
+  padding: 15px;
+  font-family: "Cambodian", Cambodian, monospace;
+  text-align: left;
+}
+h1 {
+  font-size: 1.7em;
+  margin: 20px;
+  padding: 15px 0 15px 0;
+  text-align: left;
+
+}
+h2 {
+  font-size: 1.5em;
+  margin: 10px;
+  padding: 15px 0 15px 0;
+  text-align: left;
+
+}
+
+p {
+  margin: 10px;
+  font-size: 1em;
+  text-align: left;
+  padding-top: 25px;
+
+}
+
+ul {
+  list-style-type: none;
+  padding: 15px;
+
+}
+
+#toc_container {
+    padding: 20px;
+    line-height: 1.5;
+	}
+
+.toc_list{
+	list-style-type: disc;
+}
+
+#toc_container li, #toc_container ul, #toc_container ul li{
+    padding: 5px 20px;
+}

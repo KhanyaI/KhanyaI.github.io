@@ -1,0 +1,26 @@
+body {
+  padding: 15px;
+  font-family: "Cambodian", Cambodian, monospace;
+  text-align: center;
+}
+h1 {
+  font-size: 2em;
+  margin: 0px;
+  padding: 25px 0 15px 0;
+}
+p {
+  margin: 20px;
+}
+img {
+  border-radius: 70%;
+}
+ul {
+  list-style-type: none;
+}
+footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	text-align: center;
+}
