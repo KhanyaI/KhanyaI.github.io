@@ -8,5 +8,7 @@ h1   { font: 700 2rem/1.2; text-align: center;}
 h2   { font: 700 1.3rem/1.2 "Cambodian", Cambodian, monospace;margin:10px;}
 h3   { font: 400 1rem/1.2   "Cambodian", Cambodian, monospace;text-align: center;padding: 0px;
 }
+h5   { font: 400 0.9rem/1.2   "Cambodian", Cambodian, monospace;text-align: center;padding: 0px;
+}
 time { font: 700 1rem/1.2   "Cambodian", Cambodian, monospace;}
 p    { font: 400 0.9rem/1.5   "Cambodian", Cambodian, monospace;margin:10px;}
