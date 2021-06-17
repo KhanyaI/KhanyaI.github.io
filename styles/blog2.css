@@ -1,0 +1,13 @@
+
+body {
+  padding: 20px;
+  font-family: "Cambodian", Cambodian, monospace;
+  text-align: left;
+}
+h1   { font: 700 2rem/1.2; text-align: center;}
+h2   { font: 700 1.3rem/1.2 "Cambodian", Cambodian, monospace;margin:10px;}
+p    { font: 400 1.1rem/1.5   "Cambodian", Cambodian, monospace;margin:10px;}
+ul li{
+ font-size:17.6px;
+ padding: 8px 0px;
+}
