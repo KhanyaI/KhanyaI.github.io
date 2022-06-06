@@ -24,3 +24,43 @@ footer {
 	bottom: 0;
 	text-align: center;
 }
+
+.content
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content > h1
+{
+  font-weight: 300;
+}
+
+.content p
+{
+  margin-bottom: 15px;
+  line-height: 2.0;
+  font-weight: lighter;
+}
+
+p > a
+{
+  background-color: #fff8dc;
+}
+
+p > a:hover
+{
+  color: #6050dc;
+  border-radius: 5px;
+  padding: 10px 10px 10px;
+}
+
+.contact-table
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-flow: row wrap;
+  transition: 0.5s;
+}
+
