@@ -33,10 +33,12 @@ p {
 }
 
 ul {
-  list-style-type: none;
+  list-style-type: circle;
   padding: 15px;
+  font-size: 1em;
 
 }
+
 
 #toc_container {
     padding: 20px;

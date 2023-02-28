@@ -11,4 +11,7 @@ h3   { font: 400 1rem/1.2   "Cambodian", Cambodian, monospace;text-align: center
 h5   { font: 400 0.9rem/1.2   "Cambodian", Cambodian, monospace;text-align: center;padding: 0px;
 }
 time { font: 700 1rem/1.2   "Cambodian", Cambodian, monospace;}
-p    { font: 400 0.9rem/1.5   "Cambodian", Cambodian, monospace;margin:10px;}
+p    { font: 400 1.0rem/1.5   "Cambodian", Cambodian, monospace;margin:10px;}
+
+
+li { font: 400 1.0rem/1.5   "Cambodian", Cambodian, monospace;margin:10px;}

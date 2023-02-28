@@ -23,7 +23,11 @@ img {
 }
 ul {
   list-style-type: none;
+  font-size: 0.2em;
 }
+
+
+
 footer {
 	position: fixed;
 	width: 100%;
