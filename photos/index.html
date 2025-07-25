@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHOTOGRAPHS</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>PHOTOGRAPHS</h1>
+            <p>This is me trying to be creative</p>
+        </div>
+    </section>
+
+    <!-- Image Grid Section -->
+    <section class="image-grid-section">
+        <div class="container">
+            <div class="image-grid" id="imageGrid">
+                <!-- Images will be loaded here by JavaScript -->
+            </div>
+            
+            <!-- Loading indicator -->
+            <div class="loading-indicator" id="loadingIndicator" style="display: none;">
+                <div class="spinner"></div>
+            </div>
+
+            <!-- Intersection observer target -->
+            <div class="scroll-trigger" id="scrollTrigger"></div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
