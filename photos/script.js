@@ -1,6 +1,6 @@
 // Sample images - replace these with your own photo paths
 const images = [
-    "https://khanyai.github.io/photos/analog1.jpg?w=800&h=600&fit=crop",
+    "analog1.jpg?w=800&h=600&fit=crop",
     "https://khanyai.github.io/photos/analog2.jpg?w=800&h=600&fit=crop",
     "https://khanyai.github.io/photos/digital1.jpg?w=800&h=600&fit=crop",
     "https://khanyai.github.io/photos/digital2.jpg?w=800&h=600&fit=crop",
