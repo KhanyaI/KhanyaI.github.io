@@ -45,6 +45,16 @@ function addImageToGrid(imageSrc, index) {
     img.alt = `Photograph ${index + 1}`;
     img.loading = 'lazy';
     
+    
+    // Handle case sensitivity for jpg/JPG extensions
+    img.onerror = function() {
+        if (imageSrc.endsWith('.jpg')) {
+            this.src = imageSrc.replace('.jpg', '.JPG');
+        } else if (imageSrc.endsWith('.JPG')) {
+            this.src = imageSrc.replace('.JPG', '.jpg');
+        }
+    };
+    
     imageItem.appendChild(img);
     imageGrid.appendChild(imageItem);
 }
