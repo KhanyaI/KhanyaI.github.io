@@ -1,12 +1,12 @@
 // Sample images - replace these with your own photo paths
 const images = [
-    "/Users/ifrahkhanyaree/KhanyaI.github.io/photos/analog1.jpg?w=800&h=600&fit=crop",
-    "/Users/ifrahkhanyaree/KhanyaI.github.io/photos/analog2.jpg?w=800&h=600&fit=crop",
-    "/Users/ifrahkhanyaree/KhanyaI.github.io/photos/digital1.jpg?w=800&h=600&fit=crop",
-    "/Users/ifrahkhanyaree/KhanyaI.github.io/photos/digital2.jpg?w=800&h=600&fit=crop",
-    "/Users/ifrahkhanyaree/KhanyaI.github.io/photos/digital3.jpg?w=800&h=600&fit=crop",
-    "/Users/ifrahkhanyaree/KhanyaI.github.io/photos/digital4.jpg?w=800&h=600&fit=crop",
-    "/Users/ifrahkhanyaree/KhanyaI.github.io/photos/digital5.jpg?w=800&h=600&fit=crop",
+    "/photos/analog1.jpg?w=800&h=600&fit=crop",
+    "/photos/analog2.jpg?w=800&h=600&fit=crop",
+    "/photos/digital1.jpg?w=800&h=600&fit=crop",
+    "/photos/digital2.jpg?w=800&h=600&fit=crop",
+    "/photos/digital3.jpg?w=800&h=600&fit=crop",
+    "/photos/digital4.jpg?w=800&h=600&fit=crop",
+    "/photos/digital5.jpg?w=800&h=600&fit=crop",
 ];
 
 // State management
