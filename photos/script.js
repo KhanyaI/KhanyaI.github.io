@@ -7,11 +7,11 @@ const images = [
     "https://khanyai.github.io/photos/digital3.jpg?w=800&h=600&fit=crop",
     "https://khanyai.github.io/photos/digital4.jpg?w=800&h=600&fit=crop",
     "https://khanyai.github.io/photos/digital5.jpg?w=800&h=600&fit=crop",
-    "https://khanyai.github.io/photos/digital6.jpg?w=800&h=600&fit=crop",
-    "https://khanyai.github.io/photos/digital8.jpg?w=800&h=600&fit=crop",
-    "https://khanyai.github.io/photos/digital11.jpg?w=800&h=600&fit=crop",
-    "https://khanyai.github.io/photos/digital16.jpg?w=800&h=600&fit=crop",
-    "https://khanyai.github.io/photos/digital18.jpg?w=800&h=600&fit=crop"
+    "https://khanyai.github.io/photos/digital6.JPG?w=800&h=600&fit=crop",
+    "https://khanyai.github.io/photos/digital8.JPG?w=800&h=600&fit=crop",
+    "https://khanyai.github.io/photos/digital11.JPG?w=800&h=600&fit=crop",
+    "https://khanyai.github.io/photos/digital16.JPG?w=800&h=600&fit=crop",
+    "https://khanyai.github.io/photos/digital18.JPG?w=800&h=600&fit=crop"
 ];
 
 // State management
