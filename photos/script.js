@@ -7,6 +7,11 @@ const images = [
     "https://khanyai.github.io/photos/digital3.jpg?w=800&h=600&fit=crop",
     "https://khanyai.github.io/photos/digital4.jpg?w=800&h=600&fit=crop",
     "https://khanyai.github.io/photos/digital5.jpg?w=800&h=600&fit=crop",
+    "https://khanyai.github.io/photos/digital6.jpg?w=800&h=600&fit=crop",
+    "https://khanyai.github.io/photos/digital8.jpg?w=800&h=600&fit=crop",
+    "https://khanyai.github.io/photos/digital11.jpg?w=800&h=600&fit=crop",
+    "https://khanyai.github.io/photos/digital16.jpg?w=800&h=600&fit=crop",
+    "https://khanyai.github.io/photos/digital18.jpg?w=800&h=600&fit=crop"
 ];
 
 // State management
@@ -40,7 +45,7 @@ function addImageToGrid(imageSrc, index) {
     const imageItem = document.createElement('div');
     imageItem.className = 'image-item';
     
-    const img = document.createElement('img');
+    chttps://drive.google.com/drive/folders/1fujvmqEPY8YwztroYgieYGQ-oV7zgpwD?usp=sharingonst img = document.createElement('img');
     img.src = imageSrc;
     img.alt = `Photograph ${index + 1}`;
     img.loading = 'lazy';
