@@ -45,7 +45,7 @@ function addImageToGrid(imageSrc, index) {
     const imageItem = document.createElement('div');
     imageItem.className = 'image-item';
     
-    chttps://drive.google.com/drive/folders/1fujvmqEPY8YwztroYgieYGQ-oV7zgpwD?usp=sharingonst img = document.createElement('img');
+    https://drive.google.com/drive/folders/1fujvmqEPY8YwztroYgieYGQ-oV7zgpwD?usp=sharingonst img = document.createElement('img');
     img.src = imageSrc;
     img.alt = `Photograph ${index + 1}`;
     img.loading = 'lazy';
