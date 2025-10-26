@@ -44,6 +44,7 @@ function loadInitialImages() {
 function addImageToGrid(imageSrc, index) {
     const imageItem = document.createElement('div');
     imageItem.className = 'image-item';
+    const img = document.createElement('img'); 
     img.src = imageSrc;
     img.alt = `Photograph ${index + 1}`;
     img.loading = 'lazy';
